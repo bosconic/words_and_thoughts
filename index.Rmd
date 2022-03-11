@@ -3,15 +3,15 @@ title: "Lost In A Tangent Book Club"
 image: "picture.jpeg"
 links:
   - label: Instagram
-    url: "https://www.instagram.com/lost_in_a_tangent/"
+    url: ""
   - label: Linkedin
-    url: "www.linkedin.com/in/nicholas-bosco-5980ba1a7"
+    url: ""
   - label: Email
     url: "mailto:bosconicholas03@gmail.com"
 output:
   postcards::solana
 ---
- 
+
 ## Bio
 
 Hello, my name is Nicholas, and this is the Lost In A Tangent Book Club. The idea of connecting with people through the power of words has always been a passion project of mine on instagram. First, starting out as a hobby to keep myself accountable when trying to stay positive throughout the pandemic has turned out to be a collection of video journal entries. In these monthly entries, I pick a piece of literature (like a book or a poem) from my personal library of books that seems to never stop growing and draw out the themes that I get from the stories. I read hoping to spark conversation between the viewers who watch the videos. Looking ahead, these book talks I enjoy posting are preparing me for what the real world is like; by vicariously living through the words of the writers and their characters, I can begin to connect the dots between what others have said and what I experience. With this being said, it is pretty easy to get lost in a tangent, and sometimes it is not about the destination, finishing the books. The video entries about my journey through these books/words are the critical takeaway.
@@ -32,13 +32,13 @@ Hello, my name is Nicholas, and this is the Lost In A Tangent Book Club. The ide
 
 *To His Coy Mistress* by Andrew Marvell
 
-*Spieces of Spaces and Other Pieces* George Perec
+*Spieces of Spaces and Other Pieces* by George Perec
 
 *Tête-À-Tête* by Hazel Rowley
 
 *Astrophel and Stella* by Sir Philip Sydney
 
-*A Time Regulation Institute* by Ahmet Hamdi Tanpinar (Trans. by Maureen Freely and Alexander Dawe)| Currently reading.|
+*A Time Regulation Institute* by Ahmet Hamdi Tanpinar (Trans. by Maureen Freely and Alexander Dawe)\| Currently reading.\|
 
 # Books/Poems To Be Read
 
@@ -65,6 +65,7 @@ Hello, my name is Nicholas, and this is the Lost In A Tangent Book Club. The ide
 *Aeneid* by Virgil (Trans. by C. Day Lewis)
 
 # Nick's Picks
+
 Here is a list of books/poems I feel everyone should make an effort to read as they have impacted my life for the better and have the potential to impact yours too.
 
 > **Books/Plays**
@@ -79,7 +80,6 @@ Here is a list of books/poems I feel everyone should make an effort to read as t
 
 *Our Town* by Thornton Wilder
 
-
 > **Poems**
 
 *I Carry Your Heart With Me* E.E. Cummings
@@ -89,4 +89,3 @@ Here is a list of books/poems I feel everyone should make an effort to read as t
 *Portrait of the Artist as a Prematurely Old Man* by Ogden Nash
 
 *My Barbaric Yawp* by Walt Whitman
-

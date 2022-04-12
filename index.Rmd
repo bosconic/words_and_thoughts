@@ -3,9 +3,7 @@ title: "Lost In A Tangent Book Club"
 image: "picture.jpeg"
 links:
   - label: Instagram
-    url: ""
-  - label: Linkedin
-    url: ""
+    url: "https://www.instagram.com/lost_in_a_tangent/"
   - label: Email
     url: "mailto:bosconicholas03@gmail.com"
 output:
